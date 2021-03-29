@@ -2,8 +2,8 @@ import os
 import jwt,json,secrets,datetime,uuid,requests
 from twilio.rest import Client
 
-auth_token ="7ae1ebc581cf62d14faa65c7321158d4"
-account_sid ="ACc50496b3b6c408b88ff1cbabbd2fc47c"
+auth_token =""
+account_sid =""
 phone="+18478606711"
 
 

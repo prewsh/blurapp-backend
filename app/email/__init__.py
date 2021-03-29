@@ -2,7 +2,7 @@ import os
 import jwt,json,secrets,datetime,uuid,requests
 
 
-auth_token ="3ef70d36d9172be8779e3c163573f4cf-7fba8a4e-fec2551b"
+auth_token =""
 
 
 
